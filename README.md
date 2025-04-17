@@ -2,7 +2,7 @@ Parfait ! Voici un exemple de fichier `README.md` prêt à être utilisé pour d
 
 ---
 
-### ✅ Fichier `README.md`
+### Fichier `README.md`
 
 ```markdown
 # 📡 Kafka Message Pipeline avec Node.js, MongoDB et API REST
@@ -21,7 +21,7 @@ Ce projet démontre une architecture simple où des messages Kafka sont produits
 
 ---
 
-## 📁 Structure du projet
+## Structure du projet
 
 ```
 .
@@ -34,7 +34,7 @@ Ce projet démontre une architecture simple où des messages Kafka sont produits
 
 ---
 
-## ⚙️ Installation
+## Installation
 
 ### 1. Cloner le dépôt
 
@@ -51,7 +51,7 @@ npm install
 
 ---
 
-## 🚀 Lancement des services
+## Lancement des services
 
 ### 1. Démarrer Zookeeper et Kafka
 
@@ -81,7 +81,7 @@ node api.js
 
 ---
 
-## 🌐 API REST
+## API REST
 
 ### Endpoint : `GET /messages`
 
@@ -117,14 +117,14 @@ Retourne la liste des messages enregistrés depuis Kafka :
 
 ---
 
-## 👩‍💻 Auteur
+## Auteur
 
 Binta Ball – [GitHub](https://github.com/BintaBall)  
 Projet académique en Génie Informatique – Data Science / IA
 
 ---
 
-## 📄 Licence
+## Licence
 
 Ce projet est open-source sous licence MIT.
 ```
